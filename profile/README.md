@@ -1,105 +1,51 @@
-<h1 align="center">🚀 Gain and Shine: Where TikTok Meets Tech Education 🌟</h1>
+# Gain and Shine
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</p>
+**Learn Fast, Master More — 60 Seconds at a Time.**
 
-<p align="center">
-  <b>Master Tech Skills in 60 Seconds</b><br>
-  <i>APSCHE 2023 Best Student Innovation Award Winner</i>
-</p>
-
-## 🎯 Our Vision
-
-Revolutionizing tech education through AI-powered micro-learning. We're building the future where mastering tech skills is as engaging as scrolling through social media.
-
-## 🌟 What Makes Us Different
-
-- 📱 60-second focused tech tutorials
-- 🎮 Gamified learning experience
-- 🤖 AI-powered personalization
-- 📈 One skill mastered daily
-- 👥 Social learning features
-- 💡 Built-in practice tools
-
-## 🛠️ Our Technology Stack
-
-### Learning Engine
-- Neural Network-based Content Sequencing
-- Real-time Skill Gap Analysis
-- Predictive Learning Paths
-
-### Practice Platform
-- Built-in Code Compiler
-- Interactive Assessments
-- Project-based Learning
-- Real-time Feedback
-
-## 📚 Learning Paths
-
-### Beginner Tracks
-- 💻 Web Development Fundamentals
-- 🐍 Python Programming
-- 📊 Data Science Basics
-- 🛡️ Cybersecurity 101
-
-### Advanced Tracks
-- 🌐 Full Stack Development
-- 🤖 AI/ML Foundations
-- ☁️ Cloud Computing
-- 🔄 DevOps Essentials
-
-## 🎯 Target Audience
-
-- 🎓 Students (15-25 years)
-- 💼 Working Professionals
-- 🏢 Corporate Teams
-- 📚 Educational Institutions
-
-## 🌱 Current Status
-
-- 🏆 APSCHE 2023 Innovation Award
-- 🛠️ Platform Development: 70% Complete
-- 📝 Content Pipeline Established
-- 👥 Growing Team of Experts
-
-## 👥 Our Team
-
-Led by **C Sarath Babu**
-- 🎓 MIT Cybersecurity Graduate
-- 👨‍💻 Microsoft Student Ambassador
-- 🔒 Security Research Expert
-
-## 🤝 Join Our Revolution
-
-- 🌟 Early Access Waitlist
-- 💡 Content Creation
-- 🛠️ Platform Development
-- 📢 Ambassador Program
-
-## 📬 Connect With Us
-
-- [🌐 Website](https://www.gainandshine.com)
-- [💼 LinkedIn](https://www.linkedin.com/company/gain-and-shine)
-- [🐦 Twitter](https://twitter.com/gain_shine)
-- [📺 YouTube](https://www.youtube.com/@gainandshine)
-- [📸 Instagram](https://www.instagram.com/gain_and_shine)
-
-## 🔮 Coming Soon
-
-- 📱 Mobile Apps (iOS & Android)
-- 🤖 AI-Powered Learning Assistant
-- 🌍 Global Learning Community
-- 🏢 Enterprise Solutions
+APSCHE 2023 Best Student Innovation Award. EdTech startup from Madanapalli, Andhra Pradesh.
 
 ---
 
-<p align="center">
-  <i>Join us in revolutionizing how the world learns tech!</i><br>
-  <b>One minute at a time. Every single day.</b>
-</p>
+## What We Build
 
-<p align="center">
-  <a href="mailto:sarath@gainandshine.com">💌 Get in Touch</a> |
-  <a href="https://gainandshine.com/waitlist">🎯 Join Waitlist</a>
-</p> 
+Short-form tech education. 60-second videos. 10 reels per day. One skill mastered daily.
+
+---
+
+## Products
+
+**Shyn** — In Development  
+60-second tech skill reels. Daily learning streaks. Built-in practice tools.
+
+**Dailywin** — Live on Google Play  
+Habit tracker. Daily check-ins. Streaks. Insights. Free.  
+[dailywin.gainandshine.com](https://dailywin.gainandshine.com)
+
+**AfterWords** — In Development  
+Thought-sharing platform for poets and writers.
+
+## Status
+
+- Platform: 70% complete
+- Content pipeline: established
+- Dailywin: live
+- Core platform: building
+
+---
+
+## Team
+
+**C Sarath Babu** — Founder  
+MIT Cybersecurity Graduate · Microsoft Student Ambassador · Security Researcher
+
+---
+
+## Links
+
+[Website](https://gainandshine.com) · [LinkedIn](https://linkedin.com/company/gain-and-shine) · [YouTube](https://youtube.com/@gainandshine) · [Instagram](https://instagram.com/gain_and_shine) · [Twitter](https://twitter.com/gain_shine)
+
+**Contact:** sarath@gainandshine.com
+
+---
+
+*One minute at a time. Every single day.*
